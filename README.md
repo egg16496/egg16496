@@ -22,6 +22,12 @@ usable language is...
 </p>
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egg16496&layout=compact)-->
+### asdf
+오늘 배운 것
+today I learned
+
+없음
+### qwerty
 
 [![wakatime](https://wakatime.com/badge/user/e635df0a-eb5c-4bb2-821e-06eda0768b24.svg)](https://wakatime.com/@e635df0a-eb5c-4bb2-821e-06eda0768b24)
 
