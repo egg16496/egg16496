@@ -26,9 +26,7 @@ usable language is...
 [![wakatime](https://wakatime.com/badge/user/e635df0a-eb5c-4bb2-821e-06eda0768b24.svg)](https://wakatime.com/@e635df0a-eb5c-4bb2-821e-06eda0768b24)
 
  <!--START_SECTION:waka-->
- 
- 
-  <!--END_SECTION:waka-->
+ <!--END_SECTION:waka-->
 
 <!--![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=egg16496)-->
 
