@@ -28,7 +28,7 @@ usable language is...
  <!--START_SECTION:waka-->
  <!--END_SECTION:waka-->
 
-<!--![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=egg16496)-->
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=egg16496)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fegg16496&count_bg=%2379C83D&title_bg=%23555555&icon=kotlin.svg&icon_color=%23FFFFFF&title=%E3%85%81%E3%84%B4%E3%85%87%E3%84%B9&edge_flat=false)
 
