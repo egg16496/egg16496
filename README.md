@@ -41,6 +41,7 @@ today I learned
 
 ![egg16496's GitHub stats](https://github-readme-stats.vercel.app/api?username=egg16496&show_icons=true&count_private=true)
 
+<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <!--
 **egg16496/egg16496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
