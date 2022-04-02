@@ -40,8 +40,9 @@ today I learned
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fegg16496&count_bg=%2379C83D&title_bg=%23555555&icon=kotlin.svg&icon_color=%23FFFFFF&title=%E3%85%81%E3%84%B4%E3%85%87%E3%84%B9&edge_flat=false)
 
 ![egg16496's GitHub stats](https://github-readme-stats.vercel.app/api?username=egg16496&show_icons=true&count_private=true)
-
+<!--
 <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+![image](https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)
 <!--
 **egg16496/egg16496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
