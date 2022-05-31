@@ -6,20 +6,6 @@
 <p align="center">
 안녕하세요. 제 이름은 재승입니다.
 </p>
-<p align="center">
-my name is jaeseung.
-</p>
-<p align="center">
-사용 가능한 언어는...
-</p>
-<p align="center">
-usable language is...
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/kotlin-8A2BE2?style=flat-square&logo=kotlin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/java-E34F26?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-</p>
 
 [![egg16496's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=egg16496&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/egg16496)
 
