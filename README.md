@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World!&decs=그대의%20코드는%20그대의%20지식보다%20더%20많은%20지혜를%20품고%20있다.&fontSize=95&animation=twinkling" />
 </p>
 <p align="center">
-안녕하세요. 제 이름은 재승입니다.
+안녕하세요.
 </p>
 
 [![egg16496's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=egg16496&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/egg16496)
