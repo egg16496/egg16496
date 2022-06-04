@@ -13,7 +13,6 @@
 오늘 배운 것
 today I learned
 
-object, interface, 추상 클래스
 ### qwerty
 
 [![wakatime](https://wakatime.com/badge/user/e635df0a-eb5c-4bb2-821e-06eda0768b24.svg)](https://wakatime.com/@e635df0a-eb5c-4bb2-821e-06eda0768b24)
