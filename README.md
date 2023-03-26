@@ -15,12 +15,16 @@
 * 코틀린
 * 자바 스크립트
 * HTML
+* php
 * 파이썬
 * C
+* C++
+* C#
 * CSS
 * vscode
 * android studio
 * intelliJ
+* unity
 
 ### qwerty
 
